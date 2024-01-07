@@ -1,0 +1,72 @@
+<TRACK
+  NAME "Reverb Bus"
+  PEAKCOL 16576
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  PLAYOFFS 0 1
+  ISBUS 1 1
+  BUSCOMP 0 0 0 0 0
+  SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+  FIXEDLANES 9 0 0
+  REC 0 1034 0 0 0 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0 0 0 0 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {742AD377-FF4E-41E2-8DC1-334DEE77E7DE}
+  PERF 0
+  UNDO_HAS_TRACKENV
+  MIDIOUT -1
+  MAINSEND 0 0
+>
+<TRACK
+  NAME "MIDI AUTOMATION"
+  PEAKCOL 16576
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  PLAYOFFS 0 1
+  ISBUS 2 -1
+  BUSCOMP 0 0 0 0 0
+  SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+  FIXEDLANES 9 0 0
+  REC 0 0 0 0 0 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0 0 0 0 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {35CE8715-088A-4A81-ADBC-C9EB71565B0C}
+  PERF 0
+  UNDO_HAS_TRACKENV
+  MIDIOUT 224
+  <MIDINOTENAMES
+    0 140 "Input Level" 0 140
+    0 141 Mix 0 141
+    0 142 "Effects Balance" 0 142
+    0 143 "Digital Input Level" 0 143
+    0 144 "Multi-Effect Timing" 0 144
+    0 145 "Multi-Effect Feedback" 0 145
+    0 146 "Reverb Pre-Delay" 0 146
+    0 147 "Reverb Decay" 0 147
+    0 148 "Reverb Color" 0 148
+    0 178 "Multi-Effect Type" 0 178
+    0 179 "Reverb Type" 0 179
+    0 208 "Multi-Effect Tap" 0 208
+    0 209 Bypass 0 209
+    0 210 "Multi-Effect Off" 0 210
+    0 211 "Reverb Off" 0 211
+  >
+  MAINSEND 1 0
+  <FXCHAIN
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+  >
+>
