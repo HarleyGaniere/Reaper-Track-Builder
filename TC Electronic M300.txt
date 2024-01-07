@@ -1,0 +1,16 @@
+# MIDI note/CC name map
+CC83 Reverb Off
+CC82 Multi-Effect Off
+CC81 Bypass
+CC80 Multi-Effect Tap
+CC51 Reverb Type
+CC50 Multi-Effect Type
+CC20 Reverb Color
+CC19 Reverb Decay
+CC18 Reverb Pre-Delay
+CC17 Multi-Effect Feedback
+CC16 Multi-Effect Timing
+CC15 Digital Input Level
+CC14 Effects Balance
+CC13 Mix
+CC12 Input Level
